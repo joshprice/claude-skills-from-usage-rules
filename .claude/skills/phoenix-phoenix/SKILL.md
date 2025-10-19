@@ -1,6 +1,6 @@
 ---
 name: phoenix-phoenix
-description: ## Phoenix Guidelines
+description: Phoenix guidelines
 ---
 
 ## Phoenix guidelines

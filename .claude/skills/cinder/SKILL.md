@@ -1,6 +1,6 @@
 ---
 name: cinder
-description: Cinder Usage Rules. Cinder is a data table component for Phoenix LiveView with Ash Framework integration.
+description: Cinder Usage Rules
 ---
 
 # Cinder Usage Rules

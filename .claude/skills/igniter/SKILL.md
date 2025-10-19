@@ -1,6 +1,6 @@
 ---
 name: igniter
-description: Rules for working with Igniter. Igniter is a code generation and project patching framework that enables semantic manipulation of Elixir codebases. It provides tools for creating intelligent generators that can both create new files and modify existing ones safely. Igniter works with AST (Abstract Syntax Trees) through Sourceror.Zipper to make precise, context-aware changes to your code.
+description: Rules for working with Igniter
 ---
 
 # Rules for working with Igniter

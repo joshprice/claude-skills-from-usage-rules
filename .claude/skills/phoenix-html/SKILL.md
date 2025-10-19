@@ -1,6 +1,6 @@
 ---
 name: phoenix-html
-description: ## Phoenix Html Guidelines
+description: Phoenix HTML guidelines
 ---
 
 ## Phoenix HTML guidelines

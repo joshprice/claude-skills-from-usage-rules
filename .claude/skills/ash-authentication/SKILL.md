@@ -1,7 +1,13 @@
 ---
 name: ash-authentication
-description: AshAuthentication Usage Rules. - **Strategies**: password, OAuth2, magic_link, api_key authentication methods
+description: AshAuthentication Usage Rules
 ---
+
+<!--
+SPDX-FileCopyrightText: 2022 Alembic Pty Ltd
+
+SPDX-License-Identifier: MIT
+-->
 
 # AshAuthentication Usage Rules
 

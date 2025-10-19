@@ -1,6 +1,6 @@
 ---
 name: phoenix-ecto
-description: ## Ecto Guidelines
+description: Ecto Guidelines
 ---
 
 ## Ecto Guidelines

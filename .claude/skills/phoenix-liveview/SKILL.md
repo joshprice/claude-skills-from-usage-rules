@@ -1,6 +1,6 @@
 ---
 name: phoenix-liveview
-description: ## Phoenix Liveview Guidelines
+description: Phoenix LiveView guidelines
 ---
 
 ## Phoenix LiveView guidelines

@@ -1,6 +1,6 @@
 ---
 name: phoenix-elixir
-description: ## Elixir Guidelines
+description: Elixir guidelines
 ---
 
 ## Elixir guidelines

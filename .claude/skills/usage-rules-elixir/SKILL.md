@@ -1,6 +1,6 @@
 ---
 name: usage-rules-elixir
-description: Elixir Core Usage Rules. - Use pattern matching over conditional logic when possible
+description: Elixir Core Usage Rules
 ---
 
 # Elixir Core Usage Rules

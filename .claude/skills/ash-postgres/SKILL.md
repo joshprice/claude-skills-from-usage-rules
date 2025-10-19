@@ -1,6 +1,6 @@
 ---
 name: ash-postgres
-description: Rules for working with AshPostgres. <!--
+description: Rules for working with AshPostgres
 ---
 
 <!--

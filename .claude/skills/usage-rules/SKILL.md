@@ -1,6 +1,6 @@
 ---
 name: usage-rules
-description: Search a whole module. Many packages have usage rules, which you should *thoroughly* consult before taking any
+description: Using Usage Rules
 ---
 
 ## Using Usage Rules

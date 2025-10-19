@@ -1,6 +1,6 @@
 ---
 name: usage-rules-otp
-description: OTP Usage Rules. - Keep state simple and serializable
+description: OTP Usage Rules
 ---
 
 # OTP Usage Rules
