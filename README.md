@@ -6,6 +6,6 @@ The Description in frontmatter is generated from the first header currently and 
 
 ## More Info
 
-https://www.anthropic.com/news/skills
-https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
+- https://www.anthropic.com/news/skills
+- https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
 
